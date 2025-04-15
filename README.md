@@ -49,5 +49,7 @@ This project uses supervised learning techniques to analyze customer data and pr
 
 ## Project Structure 
 ```bash
-
+|--chrun_predictioin.ipynb # Main notebook with all code
+|--dataset.csv #Dataset(or link to dataset)
+|--Readme.md
 
