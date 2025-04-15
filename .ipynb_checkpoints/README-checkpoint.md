@@ -47,9 +47,23 @@ This project uses supervised learning techniques to analyze customer data and pr
 
 ---
 
+## To Run The Project
+
+- create Virtual Environment 
+  ```
+  python -m venv mlenv
+  ```
+- install all libriaries
+  ```
+  pip install -r requirements.txt
+  ```
+- Open the churn_prediction.ipynb file and run one by one cells
+
 ## Project Structure 
-```bash
+```Tree
+|--mlenv 
 |--chrun_predictioin.ipynb # Main notebook with all code
 |--dataset.csv #Dataset(or link to dataset)
 |--Readme.md
+|--requirements.txt
 
